@@ -154,3 +154,38 @@ body{
     text-align: right;
     
 }
+
+.cta-block{
+    background-color: #3882f6;
+    display: flex;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 4%;
+    gap: 5%;
+    align-items: center;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.text-one{
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.text-two{
+    color: white;
+    font-size: 14px;
+}
+
+.sign-up-text{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 16px;
+    border:2px solid white;
+    padding: 5px 30px;
+    border-radius: 5px;
+}
